@@ -1,0 +1,1 @@
+This folder contains past python code that I practiced in 11th grade
